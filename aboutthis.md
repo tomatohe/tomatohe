@@ -7,7 +7,7 @@ subtitle:
 
 Hi, easonqin!
 
-This is a website for you. You can see photos _ This Week That Year _ and my short comments.
+This is a website for you. You can see photos _This Week That Year_ and my short comments.
 
 - Hope U have a nice week !
 - Love U sooooo much ~
