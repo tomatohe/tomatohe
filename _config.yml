@@ -145,18 +145,18 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "https://s2.loli.net/2023/12/22/1HTQecjtWs9d58Y.jpg"
+#page-img: "https://s2.loli.net/2023/12/22/1HTQecjtWs9d58Y.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "scripts.js"
 
 #################################
 # --- Web Analytics Section --- #
