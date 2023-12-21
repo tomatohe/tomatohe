@@ -2,6 +2,19 @@
 layout: page
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  
+  <!-- 引入你的 JavaScript 文件 -->
+  <script src="tomatohe.github.io/_layouts/scripts.js"></script>
+</head>
+<body>
+
+
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
@@ -120,3 +133,6 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+
+</body>
+</html>
