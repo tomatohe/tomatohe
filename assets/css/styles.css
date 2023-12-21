@@ -1,23 +1,4 @@
 body {
-  background: url('https://s2.loli.net/2023/12/22/m1PwGs76D2fEhnJ.jpg') no-repeat center center fixed;
+  background: url('https://s2.loli.net/2023/12/22/bhaH2gkjUPRXNvz.jpg') no-repeat center center fixed;
   background-size: cover;
-}
-.post-title {
-  color: #333; /* 修改标题颜色为黑色 (#333) */
-}
-
-.post-subtitle {
-  color: #666; /* 修改副标题颜色为灰色 (#666) */
-}
-
-.post-meta {
-  color: #999; /* 修改元数据颜色为深灰色 (#999) */
-}
-
-.post-entry {
-  color: #444; /* 修改文章摘要颜色为深灰色 (#444) */
-}
-
-.post-read-more {
-  color: #008AFF; /* 修改阅读更多链接颜色为蓝色 (#008AFF) */
 }
