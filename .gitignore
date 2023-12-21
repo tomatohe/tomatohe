@@ -8,6 +8,11 @@ _site
 Thumbs.db
 ehthumbs.db
 
+js/.DS_Store
+index.html.gz
+.DS_Store
+node_modules
+
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
