@@ -20,7 +20,7 @@ author: Tomatohe
 ###############################################
 
 navbar-links:
-  About Me: "aboutthis"
+  About This: "aboutthis"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
