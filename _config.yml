@@ -21,6 +21,11 @@ author: Tomatohe
 
 navbar-links:
   About This: "aboutthis"
+  January : 
+    -some say love: "https://tomatohe.github.io/2020-01-01-the-first-week-of-a-year/"
+    -it is a river: "https://tomatohe.github.io/2020-01-07-the-second-week/"
+    -that: "https://tomatohe.github.io/2020-01-14-the-third-week/"
+    -drowns the tender reed: "https://tomatohe.github.io/2020-01-21-the-4th-week/"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
