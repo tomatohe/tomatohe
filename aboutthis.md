@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About This Website
-background-image: "(https://s2.loli.net/2023/12/22/6DotLuaxABh7Ygk.jpg)"
+background-image: "https://s2.loli.net/2023/12/22/6DotLuaxABh7Ygk.jpg"
 ---
 
 
