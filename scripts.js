@@ -21,13 +21,15 @@ function calculateDays() {
         alert('Please enter valid dates.');
         return;
     }
-
-    // Calculate the time difference in milliseconds
-    var timeDiff = endDate - startDate;
-
-    // Calculate the number of days
-    var daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
-
-    // Display the result
-    document.getElementById('result').innerHTML = ' We have been in love for : ' + daysDiff + ' days ^_^';
+    var timeDiff = endDate - startDate; 
+    var secondsDiff = Math.floor(timeDiff / 1000); 
+    var days = Math.floor(secondsDiff / (3600 * 24)); 
+    var hours = Math.floor((secondsDiff % (3600 * 24)) / 3600); 
+    var minutes = Math.floor((secondsDiff % 3600) / 60); 
+    var seconds = secondsDiff % 60; 
+    
+    document.getElementById('result').innerHTML = 'We have been in love for: ' + days + ' days, '
+        + hours + ' hours, '
+        + minutes + ' minutes, '
+        + seconds + ' seconds ^_^'; 
 }
