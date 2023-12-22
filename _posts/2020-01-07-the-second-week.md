@@ -9,7 +9,7 @@ comments: true
 
 ## 2020
 第一次亲亲拍(^^)
-https://s2.loli.net/2023/12/22/zHJFPRDcCW85Qdj.jpg
+![photos](https://s2.loli.net/2023/12/22/zHJFPRDcCW85Qdj.jpg){: .mx-auto.d-block :}
 
 ## 2021
 
