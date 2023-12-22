@@ -135,10 +135,10 @@ navbar-var-length: false
 
 navbar-col: "#38383B"
 navbar-text-col: "#EDEDED"
-navbar-border-col: "##D5D6D9"
+navbar-border-col: "#D5D6D9"
 page-col: "#FFFFFF"
-text-col: "#1c1c1c"
-link-col: "#1f3324"
+text-col: "#EDEDED"
+link-col: "#EDEDED"
 hover-col: "#184F2E"
 footer-col: "#38383B"
 footer-text-col: "#EDEDED"
