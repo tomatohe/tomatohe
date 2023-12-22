@@ -30,7 +30,7 @@ subtitle: love u forever
 
 <style>
   #result {
-    font-size: 36px; /* Adjust the font size as needed */
+    font-size: 38px; /* Adjust the font size as needed */
     font-weight: bold;
   }
 </style>
