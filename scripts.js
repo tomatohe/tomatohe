@@ -28,8 +28,5 @@ function calculateDays() {
     var minutes = Math.floor((secondsDiff % 3600) / 60); 
     var seconds = secondsDiff % 60; 
     
-    document.getElementById('result').innerHTML = 'We have been in love for: ' + days + ' days, '
-        + hours + ' hours, '
-        + minutes + ' minutes, '
-        + seconds + ' seconds ^_^'; 
+    document.getElementById('result').innerHTML = 'We have been in love for: ' + days + ' days, ' + hours + ' hours, '+ minutes + ' minutes, '+ seconds + ' seconds ^_^'; 
 }
