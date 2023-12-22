@@ -25,7 +25,7 @@ subtitle:
 <label for="endDate">Today:</label>
 <input type="date" id="endDate">
 
-<button onclick="calculateDays()">Calculate Days</button>
+<button onclick="calculateDays()">LOVE U</button>
 
 <p id="result"></p>
 
@@ -47,5 +47,10 @@ subtitle:
     var seconds = secondsDiff % 60;
 
     document.getElementById('result').innerHTML = 'We have been in love for: ' + days + ' days, ' + hours + ' hours, ' + minutes + ' minutes, ' + seconds + ' seconds ^_^';
+    console.log('Days:', days);
+    console.log('Hours:', hours);
+    console.log('Minutes:', minutes);
+    console.log('Seconds:', seconds);
+
   }
 </script>
