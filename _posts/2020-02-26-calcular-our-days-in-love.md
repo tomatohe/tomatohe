@@ -28,6 +28,13 @@ subtitle:
 
 <p id="result"></p>
 
+<style>
+  #result {
+    font-size: 20px; /* Adjust the font size as needed */
+    font-weight: bold;
+  }
+</style>
+
 <script>
   
 // 设置开始日期为固定值（例如：2023年1月1日）
