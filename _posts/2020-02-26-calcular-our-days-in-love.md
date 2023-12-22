@@ -18,6 +18,15 @@ subtitle:
 
 
 ## EASONQIN & TONATOHE
+<label for="startDate">Start Date:</label>
+<input type="date" id="startDate" value="2020-01-01">
+
+<label for="endDate">End Date:</label>
+<input type="date" id="endDate">
+
+<button onclick="calculateDays()">Love U</button>
+
+<p id="result"></p>
 
 <script>
 // 设置开始日期为固定值（例如：2023年1月1日）
