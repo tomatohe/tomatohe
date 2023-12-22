@@ -1,18 +1,20 @@
 ---
 layout: post
 title: Calcular our days in love
-subtitle: EASONQIN & TONATOHE
+subtitle:  
 ---
 
-In a haze a stormy haze
+## Our Story Begins
 
-I'll be round
+**In a haze a stormy haze**
 
-I'll be loving you always always
+**I'll be round**
 
-Here I am and I'll take my time
+**I'll be loving you always always**
 
-Here I am and I'll wait in line always always
+**Here I am and I'll take my time**
+
+**Here I am and I'll wait in line always always**
 
 
 ## EASONQIN & TONATOHE
