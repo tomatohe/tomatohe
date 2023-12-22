@@ -30,7 +30,7 @@ subtitle:
 
 <style>
   #result {
-    font-size: 20px; /* Adjust the font size as needed */
+    font-size: 30px; /* Adjust the font size as needed */
     font-weight: bold;
   }
 </style>
