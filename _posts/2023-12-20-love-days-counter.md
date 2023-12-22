@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calcular our days in love
+title: Days in love
 subtitle: love u forever 
 ---
 
