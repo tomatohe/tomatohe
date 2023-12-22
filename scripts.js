@@ -29,4 +29,10 @@ function calculateDays() {
     var seconds = secondsDiff % 60; 
     
     document.getElementById('result').innerHTML = 'We have been in love for: ' + days + ' days, ' + hours + ' hours, '+ minutes + ' minutes, '+ seconds + ' seconds ^_^'; 
+
+    console.log('Days:', days);
+    console.log('Hours:', hours);
+    console.log('Minutes:', minutes);
+    console.log('Seconds:', seconds);
+
 }
