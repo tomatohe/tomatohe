@@ -39,16 +39,11 @@ Here I am and I'll wait in line always always
 
     var timeDiff = endDate - startDate;
     var secondsDiff = Math.floor(timeDiff / 1000);
-
     var days = Math.floor(secondsDiff / (3600 * 24));
     var hours = Math.floor((secondsDiff % (3600 * 24)) / 3600);
     var minutes = Math.floor((secondsDiff % 3600) / 60);
     var seconds = secondsDiff % 60;
 
-    document.getElementById('result').innerHTML = 'We have been in love for: ' +
-      days + ' days, ' +
-      hours + ' hours, ' +
-      minutes + ' minutes, ' +
-      seconds + ' seconds ^_^';
+    document.getElementById('result').innerHTML = 'We have been in love for: ' + days + ' days, ' + hours + ' hours, ' + minutes + ' minutes, ' + seconds + ' seconds ^_^';
   }
 </script>
