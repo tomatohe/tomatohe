@@ -4,20 +4,14 @@ title: Days in love
 subtitle: love u forever 
 ---
 
-## Our Story Begins
 
-**In a haze a stormy haze**
-
-**I'll be round**
 
 **I'll be loving you always always**
-
-**Here I am and I'll take my time**
 
 **Here I am and I'll wait in line always always**
 
 
-## EASONQIN & TONATOHE
+## EASONQIN & TOMATOHE
 <label for="startDate">Start:</label>
 <input type="date" id="startDate" value="2020-01-01">
 
